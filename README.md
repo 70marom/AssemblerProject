@@ -1,5 +1,7 @@
 # AssemblerProject
-Assembler for a custom assembly language, for MMN14 OPENU.
+Assembler for a custom assembly language, for OPENU.  
+
+For more information about the project check the Project Description file.  
 
 Test1 - a simple example of an assembly file that passes the assembler process successfully without errors with standard output files.  
 Test 2 - the example goes through the process as it should and includes a lot of components from the assembly language, the process ends successfully.  
