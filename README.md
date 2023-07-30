@@ -1,5 +1,5 @@
 # AssemblerProject
-Assembler for a custom assembly language, for OPENU.  
+Assembler for a custom assembly language, for the university.  
 
 For more information about the project check the Project Description file.  
 
